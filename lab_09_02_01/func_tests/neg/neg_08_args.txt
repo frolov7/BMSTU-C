@@ -1,0 +1,1 @@
+./main.exe func_test/neg/neg_08_in

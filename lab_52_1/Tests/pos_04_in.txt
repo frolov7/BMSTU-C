@@ -1,0 +1,9 @@
+Ryazaev
+Valera
+3 2 5 4
+Frolov
+Vladimir
+5 5 5 5
+Nikitin
+Nikita
+3 3 4 4

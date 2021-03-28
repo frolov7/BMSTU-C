@@ -1,0 +1,4 @@
+./functions.exe only.txt
+
+only.txt:
+1 1 1 1 1 1 1 1

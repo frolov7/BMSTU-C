@@ -1,0 +1,9 @@
+Varlamov
+Petr
+5 5 5 5 
+Semin
+Dmitriy
+3 3 4 3 
+Pavlov
+Evgeiny
+5 3 3 5 

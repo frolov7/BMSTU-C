@@ -1,0 +1,4 @@
+./functions.exe d.txt
+
+d.txt:
+1

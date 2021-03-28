@@ -1,0 +1,9 @@
+Sharapov
+Ilya
+5 5 5 5
+Bodarov
+Kostya
+5 5 5 5
+Sinyakov
+Kirill
+5 3 3 3

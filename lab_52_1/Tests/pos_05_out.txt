@@ -1,0 +1,9 @@
+Egorov
+Nikita
+5 5 5 5 
+Egorov
+Kolya
+4 4 5 3 
+Egorov
+Sasha
+5 4 3 5 
