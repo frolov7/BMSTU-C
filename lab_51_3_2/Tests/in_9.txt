@@ -1,0 +1,4 @@
+./functions.exe k.txt
+
+k.txt:
+3 15 а -7

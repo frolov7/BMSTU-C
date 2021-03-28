@@ -1,0 +1,1 @@
+./main.exe func_tests/pos/pos_07_in.txt ALL

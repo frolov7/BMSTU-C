@@ -1,0 +1,4 @@
+./functions.exe abc.txt
+
+abc.txt:
+рапрв ррапы овар

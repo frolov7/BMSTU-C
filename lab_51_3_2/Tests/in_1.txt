@@ -1,0 +1,4 @@
+./functions.exe t.txt
+
+t.txt:
+4.32991 3 12  25 13   -48.75748

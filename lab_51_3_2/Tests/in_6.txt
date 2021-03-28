@@ -1,0 +1,4 @@
+./functions.exe zeros.txt
+
+zeros.txt:
+0 0 0 0 0 0
